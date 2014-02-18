@@ -1,0 +1,14 @@
+PODS:
+  - ATContainerViewController (0.1.0)
+
+DEPENDENCIES:
+  - ATContainerViewController (from `../ATContainerViewController.podspec`)
+
+EXTERNAL SOURCES:
+  ATContainerViewController:
+    :path: ../ATContainerViewController.podspec
+
+SPEC CHECKSUMS:
+  ATContainerViewController: 91c04192b213f7057dd4fdf6dc4f0b9c5844925e
+
+COCOAPODS: 0.29.0

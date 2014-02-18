@@ -3,6 +3,8 @@
 [![Version](http://cocoapod-badges.herokuapp.com/v/ATContainerViewController/badge.png)](http://cocoadocs.org/docsets/ATContainerViewController)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/ATContainerViewController/badge.png)](http://cocoadocs.org/docsets/ATContainerViewController)
 
+The ATContainerViewController allows you to setup a containerview using segues. 
+
 ## Usage
 
 To run the example project; clone the repo, and run `pod install` from the Project directory first.
